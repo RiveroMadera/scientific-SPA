@@ -21,7 +21,6 @@ const Character = async () => {
         <h3>Last Location: <span>${character.location.name}</span></h3>
       </article>
     </div>
-  
   `;
   return view;
 }
